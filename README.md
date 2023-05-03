@@ -35,3 +35,7 @@ Particles JS
 Iconos8
 
 ![iconos8](https://github.com/SofyFrontend/badges/blob/main/iconos8.svg)
+
+Angular
+
+![angular](https://github.com/SofyFrontend/badges/blob/main/angular.svg)
