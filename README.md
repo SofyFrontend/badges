@@ -39,3 +39,7 @@ Iconos8
 Angular
 
 ![angular](https://github.com/SofyFrontend/badges/blob/main/angular.svg)
+
+React
+
+![react](https://github.com/SofyFrontend/badges/blob/main/react.svg)
