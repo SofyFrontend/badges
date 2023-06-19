@@ -42,7 +42,7 @@ Angular
 
 FontAwesome
 
-![FontAwesome](http://github.com/SofyFrontend/badges/blob/main/font-awesome.svg)
+![FontAwesome](https://github.com/SofyFrontend/badges/blob/main/font-awesome.svg)
 
 React
 
