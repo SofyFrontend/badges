@@ -40,6 +40,10 @@ Angular
 
 ![angular](https://github.com/SofyFrontend/badges/blob/main/angular.svg)
 
+FontAwesome
+
+![FontAwesome](http://github.com/SofyFrontend/badges/blob/main/font-awesome.svg)
+
 React
 
 ![react](https://github.com/SofyFrontend/badges/blob/main/react.svg)
