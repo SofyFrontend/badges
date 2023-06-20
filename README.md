@@ -47,3 +47,7 @@ FontAwesome
 React
 
 ![react](https://github.com/SofyFrontend/badges/blob/main/react.svg)
+
+Bulma
+
+![Bulma](https://github.com/SofyFrontend/badges/blob/main/bulma.svg)
