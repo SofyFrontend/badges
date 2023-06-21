@@ -55,3 +55,7 @@ Bulma
 Python
 
 ![python](https://github.com/SofyFrontend/badges/blob/main/python.svg)
+
+PHP
+
+![PHP](https://github.com/SofyFrontend/badges/blob/main/php.svg)
