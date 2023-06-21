@@ -59,3 +59,23 @@ Python
 PHP
 
 ![PHP](https://github.com/SofyFrontend/badges/blob/main/php.svg)
+
+GIT
+
+![git](https://github.com/SofyFrontend/badges/blob/main/git.svg)
+
+LINUX
+
+![Linux](https://github.com/SofyFrontend/badges/blob/main/linux.svg)
+
+WORDPRESS
+
+![WordPress](https://github.com/SofyFrontend/badges/blob/main/wordpress.svg)
+
+SQL SERVER
+
+![SQL server](https://github.com/SofyFrontend/badges/blob/main/sql-server.svg)
+
+SQL
+
+![SQL](https://github.com/SofyFrontend/badges/blob/main/sql.svg)
