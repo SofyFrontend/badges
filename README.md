@@ -51,3 +51,7 @@ React
 Bulma
 
 ![Bulma](https://github.com/SofyFrontend/badges/blob/main/bulma.svg)
+
+Python
+
+![python](https://github.com/SofyFrontend/badges/blob/main/python.svg)
